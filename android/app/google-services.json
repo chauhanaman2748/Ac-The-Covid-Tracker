@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "917737758602",
+    "firebase_url": "https://accovidapp-2748.firebaseio.com",
+    "project_id": "accovidapp-2748",
+    "storage_bucket": "accovidapp-2748.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917737758602:android:53fbe7a35d28cbffbff273",
+        "android_client_info": {
+          "package_name": "ac.ac_the_covid_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917737758602-fg9l7h9tsvkdd66521dfk6fojk4jgj52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ac.ac_the_covid_tracker",
+            "certificate_hash": "b8cb65ca3ac152c2a6491c4b9f1ccd3db355c8b8"
+          }
+        },
+        {
+          "client_id": "917737758602-ppmgvprcerv4dh8p2564vgjn0k45foeo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ac.ac_the_covid_tracker",
+            "certificate_hash": "faf65b60bb78c526580caa1cc1d8523fd53c50a6"
+          }
+        },
+        {
+          "client_id": "917737758602-ng1kk304tolu54kjs7u190stv9bcgei7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG7c4Y_xx-1Pyl1J3D6eDx-eJsNGvGvfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917737758602-ng1kk304tolu54kjs7u190stv9bcgei7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
